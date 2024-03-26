@@ -21,6 +21,7 @@
 }
 
 .escola{
-    display: fex;
+    display: flex;
     color: white;
+    background-image: radial-gradient(circle at 31.72% 31.72%, #a667ff 0, #6d56ff 25%, #1e43f3 50%, #0031ca 75%, #0021a4 100%);
 }
